@@ -23,7 +23,7 @@
   "dependencies": {
     "dirty": "0.9.x",
     "errno-codes": "~1.0.2",
-    "js-yaml": "2.0.x",
+    "js-yaml": "2.1.3",
     "mongodb": "1.2.x",
     "node-uuid": "1.4.x",
     "nstore": "git+https://github.com/basti1302/nstore.git#0.5.2-constants",
